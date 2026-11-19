@@ -23,10 +23,10 @@ export const getme = async (req, res,next) => {
 
 export const updateProfile = async (req, res, next) => {
     try {
-        const {age, state, annualIncome, category, occupation } = req.body;
+        const {age,gender, state, annualIncome, category, occupation } = req.body;
         const user = await User.findByIdAndUpdate(
             req.user.id,
-            { profile :{age, state, annualIncome, category, occupation}},
+            { profile :{age,gender, state, annualIncome, category, occupation}},
             { new : true, runValidators: true }
         ); 
         if(!user){

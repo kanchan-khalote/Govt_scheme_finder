@@ -1,0 +1,238 @@
+[
+  {
+    "slug": "cm-ladli-behna-yojana-mp",
+    "name": "Chief Minister Ladli Behna Yojana",
+    "category": "Financial Assistance",
+    "sourceUrl": "https://ladlibehna.mp.gov.in/",
+    "lastChecked": "2026-09-18",
+    "eligibility": {
+    "minAge": 21,
+    "maxAge": 59,
+    "gender": "Female",
+    "maxIncome": 250000,
+    "states": ["Madhya Pradesh"],
+    "categories": "ALL",
+    "occupations": "ALL"
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "The Chief Minister Ladli Behna Yojana was launched in 2023 by the Women and Child Development Department, Government of Madhya Pradesh. The scheme aims to promote women's economic independence and improve their health and nutritional status. Eligible women receive financial assistance through Direct Benefit Transfer (DBT) into their Aadhaar-linked bank accounts."
+      },
+      {
+        "title": "Benefits",
+        "text": "Each eligible woman receives ₹1,500 per month credited directly to her own Aadhaar-linked, DBT-enabled bank account. If a woman under 60 years of age in a family is currently receiving less from a social security pension scheme, the amount is topped up to reach a total of 1,500 per month."
+      },
+      {
+        "title": "Eligibility",
+        "text": "The applicant must be a local resident of Madhya Pradesh, must be married (includes widows, divorced, and abandoned women), and should have completed 21 years and be less than 60 years of age as on January 1 of the calendar year of application."
+      },
+      {
+        "title": "Documents Required",
+        "text": "1. Family Samagra ID document\n2. Individual Samagra ID document\n3. Aadhaar card"
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Offline. Applicants fill out a form available at camps, Gram Panchayat offices, ward offices, and Anganwadi centers. The form is entered online by the camp in-charge, and a printed acknowledgment is provided via SMS or WhatsApp. Applicants must be physically present at designated locations for a live photograph and e-KYC process, bringing their Family Samagra ID, Individual Samagra ID, and Aadhaar card."
+      }
+    ]
+  },
+  {
+    "slug": "mp-kalakar-sahityakar-kalyan-kosh-death-assistance",
+    "name": "Madhya Pradesh Kalakar Evam Sahityakar Kalyan Kosh Niyam- Death Assistance",
+    "category": "Financial Assistance",
+    "sourceUrl": "https://www.myscheme.gov.in/",
+    "lastChecked": "2026-09-18",
+    "eligibility": {
+    "minAge": null,
+    "maxAge": null,
+    "gender": "ALL",
+    "maxIncome": 240000,
+    "states": ["Madhya Pradesh"],
+    "categories": "ALL",
+    "occupations": "ALL",
+    "needsOfficialCheck": true,
+    "conditionNote": "Only for legal heirs/dependents of a deceased artist or litterateur of Madhya Pradesh"
+  },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "The 'Madhya Pradesh Kalakar Evam Sahityakar Kalyan Kosh Niyam- Death Assistance' scheme has been launched by the Department of Culture, Government of Madhya Pradesh. The scheme aims to provide financial assistance to the legal dependents of deceased artists and litterateurs through a one-time ex-gratia financial support to help the family cope with financial hardship."
+      },
+      {
+        "title": "Benefits",
+        "text": "One-time ex-gratia financial assistance of up to 1,00,000 is paid to the legal heir of the deceased artist or litterateur. Preference is given to the spouse of the deceased, and assistance may continue to other dependents until marriage, employment, or attainment of 21 years of age, whichever is earlier."
+      },
+      {
+        "title": "Eligibility",
+        "text": "The applicant should be the legal heir or dependent of a deceased artist or litterateur of Madhya Pradesh and must be a resident of Madhya Pradesh. The applicant's (husband/wife) monthly income should not exceed 10,000/-, and the family's monthly income should not exceed 20,000/-. Families of government employees are not eligible."
+      },
+      {
+        "title": "Documents Required",
+        "text": "• Passport-size Photo\n• Proof of Residence\n• Age Proof\n• Self-Declaration Affidavit\n• Identity Card\n• Aadhaar card\n• Death Certificate\n• Income Certificate\n• Artist/Litterateur's Work & Achievements\n• Bank Account Details with IFSC Code."
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Offline. Step 1: Download the application form from the official website. Step 2: Fill in all mandatory fields and attach mandatory documents. Step 3: Submit the duly filled and signed application form along with documents to the Director, Directorate of Culture, Madhya Pradesh."
+      }
+    ]
+  },
+  {
+    "slug": "medical-aid-scheme-ayushman-bharat-niramaya-mpbocwwb",
+    "name": "Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya') (MPBOCWWB)",
+    "category": "Health",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/masabsn",
+    "lastChecked": "2026-11-18",
+    "eligibility": {
+    "minAge": 18,
+    "maxAge": 60,
+    "gender": "ALL",
+    "maxIncome": null,
+    "states": ["Madhya Pradesh"],
+    "categories": "ALL",
+    "occupations": ["Construction Worker"],
+    "needsOfficialCheck": true,
+    "conditionNote": "Must be a registered building/construction worker with at least 90 days of construction work in the preceding 12 months"
+  },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "The 'Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya')' under the Labour Department, Government of Madhya Pradesh, provides free medical treatment up to ₹5,00,000/- per year to registered workers and their families in approved hospitals."
+      },
+      {
+        "title": "Benefits",
+        "text": "Free medical treatment up to ₹5,00,000/- per year. Includes treatments approved under the Ayushman Bharat Scheme such as surgeries, maternity care, and critical illnesses."
+      },
+      {
+        "title": "Eligibility",
+        "text": "The applicant should be a resident of Madhya Pradesh, a registered Building/Construction Worker between 18 and 60 years of age, who has engaged in construction work for at least 90 days during the preceding 12 months, and whose registration is renewed annually."
+      },
+      {
+        "title": "Documents Required",
+        "text": "1. Identity Proof (e.g., Aadhaar card)\n2. Passport-size Photograph\n3. Proof of Residence (e.g., Utility bill, Voter ID, etc.)\n4. Ration Card (optional)\n5. Bank Account Details (e.g., Copy of Bank Passbook)\n6. Caste Certificate (if applicable)\n7. Undertaking/Declaration\n8. Age Certificate\n9. Valid Identity Cards\n10. Employment Certificate\n11. Signature"
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Online. Step 1: Go to the Shram Seva Portal (MPBOCWWB) official website (https://labour.mp.gov.in/Default.aspx). Step 2: Click on 'Registration of Construction Worker'. Step 3: Select 'Apply online for registration as a beneficiary', enter Composite Member ID and Samagra Family ID, complete the form, upload necessary documents, submit, and pay the fee online to receive a registration number."
+      }
+    ]
+  },
+  {
+    "slug": "national-talent-scholarship-undergraduate-icar",
+    "name": "National Talent Scholarship Undergraduate",
+    "category": "Scholarship",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/nts-ug",
+    "lastChecked": "2026-11-18",
+    "eligibility": {
+    "minAge": null,
+    "maxAge": null,
+    "gender": "ALL",
+    "maxIncome": null,
+    "states": "ALL",
+    "categories": "ALL",
+    "occupations": ["Student"],
+    "needsOfficialCheck": true,
+    "conditionNote": "Only for Bachelor's students of an ICAR-recognized agricultural university outside their home state, admitted through AIEEA"
+  },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "The National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research (ICAR) for students pursuing a Bachelor's program in an ICAR-recognized agricultural university located outside of their state of domicile, funded under 'Strengthening and Development of Higher Agricultural Education in India'."
+      },
+      {
+        "title": "Benefits",
+        "text": "The value of the scholarship is ₹2,000/- per month for undergraduate (Bachelor's degree) students. It is awarded initially for one year and renewable for the remaining duration of the degree subject to maintaining good academic performance."
+      },
+      {
+        "title": "Eligibility",
+        "text": "The applicant should be a student pursuing a Bachelor's degree from an ICAR-recognized Agricultural University located outside their state of domicile, admitted through the All India Entrance Examination (AIEEA), maintaining merit and good conduct, studying on a whole-time basis without holding a job or accepting other financial assistance."
+      },
+      {
+        "title": "Documents Required",
+        "text": "Candidates need to upload scanned images of: 1. Photograph, 2. Signature, 3. Thumb impression. No certificates are required to be uploaded during online submission."
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Online. Application forms can be submitted exclusively online on the official website https://icar.nta.ac.in[ : 13]."
+      }
+    ]
+  },
+  {
+    "slug": "pratibha-kiran-scholarship-mp",
+    "name": "Pratibha Kiran Scholarship",
+    "category": "Scholarship",
+    "sourceUrl": "https://www.scholarshipportal.mp.nic.in/sLogin.aspx",
+    "lastChecked": "2026-09-18",
+    "eligibility": {
+      "minAge": null,
+      "maxAge": null,
+      "gender":"Female",
+      "maxIncome": null,
+      "states": ["Madhya Pradesh"],
+      "categories": "ALL",
+      "occupations": ["Student"]
+    },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "The Pratibha Kiran Scholarship, under the Higher Education Department, Government of Madhya Pradesh, provides financial assistance to girls from urban areas to pursue higher education for a duration of 10 months, aimed at encouraging education among girl students who have secured 60% or more marks in Class 12."
+      },
+      {
+        "title": "Benefits",
+        "text": "Financial assistance of up to 5,000 is provided annually to the girl student for a duration of 10 months to encourage and promote higher education."
+      },
+      {
+        "title": "Eligibility",
+        "text": "The applicant must be a permanent resident of an urban area of Madhya Pradesh, belonging below the poverty line (BPL), female, and should have passed Class 12 with 60% or more marks."
+      },
+      {
+        "title": "Documents Required",
+        "text": "1. Aadhaar card\n2. Urban residential certificate\n3. Income certificate\n4. BPL certificate\n5. Class 12 mark sheet\n6. Passport-size photo\n7. Copy of bank passbook\n8. Birth certificate\n9. Caste certificate\n10. Mobile number"
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Online. Go to the scholarship portal, register as a new user, click on New Registration for the Pratibha Kiran Scholarship, fill in the required details, log in using the Registration ID at http://www.scholarshipportal.mp.nic.in/sLogin.aspx, and apply."
+      }
+    ]
+  },
+  {
+    "slug": "ayushman-bharat-pm-jay",
+    "name": "Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "category": "Health",
+    "sourceUrl": "https://pmjay.gov.in/",
+    "lastChecked": "2026-11-18",
+    "eligibility": {
+    "minAge": null,
+    "maxAge": null,
+    "gender": "ALL",
+    "maxIncome": null,
+    "states": "ALL",
+    "categories": "ALL",
+    "occupations": "ALL",
+    "needsOfficialCheck": true,
+    "conditionNote": "Eligibility is decided from SECC 2011 data and state lists. Check your name on the official portal"
+  },
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) is the world's largest health insurance/assurance scheme fully financed by the government. It provides a health cover of ₹5,00,000 per family per year for secondary and tertiary care hospitalization across public and private empanelled hospitals in India."
+      },
+      {
+        "title": "Benefits",
+        "text": "Provides cashless health insurance cover of up to ₹5,00,000 per family per year. It covers medical examination, treatment, consultation, pre-hospitalization expenses, medicine, and diagnostic services."
+      },
+      {
+        "title": "Eligibility",
+        "text": "Families belonging to rural and urban categories as per the Socio-Economic Caste Census (SECC) 2011 criteria, or those holding Rashtriya Swasthya Bima Yojana (RSBY) active cards, without any cap on family size or age."
+      },
+      {
+        "title": "Documents Required",
+        "text": "1. Aadhaar card or Ration Card\n2. Mobile Number\n3. Family ID / Samagra ID (in respective states)\n4. Income or Category Certificate (if applicable)"
+      },
+      {
+        "title": "How to Apply",
+        "text": "Mode: Online/Offline. Beneficiaries can check their eligibility on the official portal (pmjay.gov.in) or Ayushman App, and visit nearby empanelled hospitals, Common Service Centers (CSCs), or designated Setu centers for e-KYC and Ayushman Card generation."
+      }
+    ]
+  }
+]

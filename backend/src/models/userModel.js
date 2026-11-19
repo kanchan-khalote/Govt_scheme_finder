@@ -29,6 +29,10 @@ const userSchema = new mongoose.Schema(
        },
        profile:{
         age:{type:Number,min:0, max:120},
+        gender:{type: String, 
+            enum: ['Female', 'Male', 'other',''],
+            default: ''
+        },
         state:{type:String, trim:true},
         annualIncome:{type:Number, min:0},
         category:{
